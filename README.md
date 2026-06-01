@@ -102,7 +102,7 @@ bibtex
   publisher    = {Zenodo},
   version      = {v1.0.0},
   doi          = {10.5281/zenodo.2045937},
-  url          = {[https://doi.org/10.5281/zenodo.2045937](https://doi.org/10.5281/zenodo.2045937)}
+  url          = {https://doi.org/10.5281/zenodo.2045937}
 }
 
 
